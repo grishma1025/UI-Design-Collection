@@ -29,4 +29,5 @@ https://www.figma.com/design/n3nUc6IGk0n3nQlgKajgUy/Grishma_Bhuva%5C?node-id=234
 Design9: 
 https://www.figma.com/design/n3nUc6IGk0n3nQlgKajgUy/Grishma_Bhuva%5C?node-id=48-127&t=1IGejbfqLIB0hlmS-1
 
-
+Design10:
+https://www.figma.com/design/n3nUc6IGk0n3nQlgKajgUy/Grishma_Bhuva%5C?node-id=377-183&t=1IGejbfqLIB0hlmS-1
